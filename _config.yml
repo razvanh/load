@@ -1,0 +1,18 @@
+# site details
+name: Spaceman
+description: Spaceman is the default Jekyll theme
+url: http://lucianmarin.com/spaceman/
+
+# social profiles. just remove unneeded profiles.
+behance: lucianmarin
+dribbble: lucianmarin
+github: lucianmarin/spaceman
+instagram: lucianmarin
+tumblr: lucianmarin
+twitter: lucianmarin
+
+pygments: true
+permalink: /article/:title.html
+
+exclude: [readme.md]
+include: [.htaccess]
