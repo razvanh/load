@@ -112,10 +112,9 @@ a.typo {
   overflow: hidden; }
   .header h1 {
     font-weight: bold;
-    font-size: 96px;
-    line-height: 70px;
-    letter-spacing: -4px;
-    white-space: nowrap; }
+    font-size: 64px;
+    line-height: 64px;
+    letter-spacing: -4px; }
 
 .footer {
   margin-top: 16px;

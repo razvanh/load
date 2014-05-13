@@ -1,18 +1,16 @@
 # site details
-name: Spaceman
-description: Spaceman is the default Jekyll theme
-url: http://lucianmarin.com/spaceman/
+name: Life of a designer
+description: 
+url: http://llifeofadesigner.com
 
 # social profiles. just remove unneeded profiles.
-behance: lucianmarin
-dribbble: lucianmarin
-github: lucianmarin/spaceman
-instagram: lucianmarin
-tumblr: lucianmarin
-twitter: lucianmarin
+dribbble: razvanh
+github: razvanh
+instagram: razvanh
+twitter: razvanh
 
-pygments: true
-permalink: /article/:title.html
+highlighter: pygments
+permalink: /:title.html
 
 exclude: [readme.md]
 include: [.htaccess]
