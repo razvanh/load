@@ -1,11 +1,11 @@
 <li>
     <a href="{{ post.url }}">
+        <span class="date">
+            <b>{{ post.date | date: "%B" }}
+            {{ post.date | date: "%Y" }}</b>:
+        </span>
         <span class="title">
             {{ post.title }}
-        </span>
-        <span class="date">
-            <b>{{ post.date | date: "%B" }}</b>
-            {{ post.date | date: "%Y" }}
         </span>
     </a>
 </li>

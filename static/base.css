@@ -107,14 +107,14 @@ a.typo {
 
 .header {
   color: white;
-  padding-bottom: 32px;
+  padding-bottom: 30px;
   cursor: default;
   overflow: hidden; }
   .header h1 {
     font-weight: bold;
-    font-size: 64px;
-    line-height: 64px;
-    letter-spacing: -4px; }
+    font-size: 56px;
+    line-height: 56px;
+    letter-spacing: -2px; }
 
 .footer {
   margin-top: 16px;
@@ -151,37 +151,19 @@ a.typo {
       color: #009ea0; }
 
 .archive ol {
-  margin-top: -10px;
-  font-size: 20px;
-  list-style: none; }
+  list-style-type: none; }
   .archive ol li {
-    line-height: 40px;
-    margin: 0 -15px; }
-    .archive ol li a {
-      padding: 0 15px;
-      display: block;
-      background-color: transparent;
-      transition: background-color 0.5s;
-      border-radius: 4px; }
-      .archive ol li a:hover {
-        background-color: white; }
-.archive .title {
-  color: #484440 !important; }
+    margin-bottom: 10px; }
 .archive .date {
-  font-weight: 300;
-  text-transform: lowercase;
-  float: right; }
-  .archive .date b {
-    font-weight: 300;
-    margin-right: 10px;
-    color: #009ea0 !important; }
+  background-color: #fcb514;
+  padding: 3px;
+  border-radius: 3px;
+  margin-right: 10px; }
 
 .post {
   margin-bottom: 30px; }
   .post p {
-    text-indent: 40px; }
-    .post p:first-child {
-      text-indent: 0; }
+    margin-bottom: 10px; }
     .post p img {
       margin: 10px 0;
       display: block;
@@ -211,7 +193,6 @@ a.typo {
     margin-left: 40px;
     color: gray; }
   .post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
-    text-indent: 40px;
     color: #009ea0; }
   .post h1 {
     font-size: 30px;
@@ -246,12 +227,8 @@ a.typo {
     .post blockquote p {
       text-indent: 0; }
   .post a {
-    background-color: #fedd92;
     color: #484440;
-    border-bottom: #fedd92 2px solid;
-    border-radius: 4px;
-    padding: 0 4px;
-    transition: background-color 0.3s, color 0.3s, border 0.3s; }
+    border-bottom: #8b847d 1px solid; }
     .post a:hover {
       background-color: #fcb514;
       border-bottom: #fcb514 2px solid; }
@@ -287,7 +264,6 @@ a.typo {
   margin-top: -10px;
   margin-bottom: 20px; }
   .browse p {
-    padding-left: 40px;
     line-height: 30px; }
     .browse p:first-child {
       border-bottom: #dbd8d5 1px solid; }

@@ -33,17 +33,15 @@
         </ul>
     </div>
 </div>
-
+{% if page.subtitle %}
 <div class="header">
     <div class="content">
         <h1 class="title">
-            {% if page.subtitle %}
                 {{ page.subtitle }}
-            {% endif %}
         </h1>
     </div>
 </div>
-
+{% endif %}
 <div class="main">
     <div class="content">
         {{ content }}
