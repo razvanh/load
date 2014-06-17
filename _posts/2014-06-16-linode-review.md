@@ -2,7 +2,7 @@
 title: My experience transitioning from MediaTemple to Linode
 author: admin
 layout: post
-permalink: /wordpress/mediatemple-to-linode-transition/
+permalink: /personal/mediatemple-to-linode-transition/
 categories:
   - personal
 tags:
