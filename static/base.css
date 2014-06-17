@@ -27,6 +27,17 @@ a {
 h1, h2, h3, h4 {
   font-weight: normal; }
 
+table {
+  width: 100%; }
+
+th {
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 1px #cccccc dashed; }
+
+th, td {
+  padding: 5px; }
+
 .social {
   height: 26px;
   cursor: default; }
