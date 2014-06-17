@@ -15,6 +15,6 @@ Reading these will make you a better designer and will help you get better with 
 
 I&#8217;d love to hear if you have any recommendations for my list.
 
-![Buzz](/images/great-design-books.jpg)
+![great design books](/images/great-design-books.jpg)
 
  [1]: http://greatdesignbooks.com

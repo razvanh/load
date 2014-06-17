@@ -9,6 +9,8 @@ tags:
   - wordpress email notification pending submission
   - wordpress plugin
 ---
+![email notification for pending wordpress submissions](/images/psm.jpg)
+
 I am working on implementing of Wordpress for an online publication that has a large editorial staff. There are a few admins and a lot of contributors that can submit articles. 
 
 When a contributor submits an article, it goes to a submission queue that has to be reviewed by an admin. 
@@ -19,4 +21,7 @@ I built a very simple plugin that will send out an email when a new article is s
 
 Download it on [github][1] or feel free to create a pull request if you feel like improving it :)
 
+[Wordpress.org plugin page][2]
+
  [1]: https://github.com/razvanh/simple-wp-notify-pending
+ [2]: http://wordpress.org/plugins/pending-submission-notifications/
