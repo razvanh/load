@@ -9,7 +9,11 @@ section:    archive
 <div class="entry archive">
     <ol>
         {% for post in site.posts %}
-            {% include item.html %}
+	        {% if post.categories contains "portfolio" %}
+
+	        {% else %}
+	            {% include item.html %}
+	        {% endif %}    
         {% endfor %}
     </ol>
 </div>

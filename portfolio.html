@@ -1,0 +1,15 @@
+---
+layout:     default
+title:      Portfolio
+subtitle:   My Work
+permalink:  /portfolio/
+section:    portfolio
+---
+
+<div class="work archive">
+    <ol>
+        {% for post in site.categories.portfolio %}
+            {% include portfolio_item.html %}
+        {% endfor %}
+    </ol>
+</div>
