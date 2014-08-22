@@ -3,6 +3,13 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu)
 @import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono)
 
+@mixin clearfix 
+    &:after 
+        content: ""
+        display: table
+        clear: both
+  
+
 // before
 $black: #343536
 $white: #fff
@@ -124,21 +131,19 @@ a.typo
     margin: 0 auto
 
 .menu
+    @include clearfix
     padding: 18px 0 14px 0
-    height: 36px
-    line-height: 36px
+    
     ul
         display: block
         list-style: none
         li
             display: block
             float: left
-            &:first-child
-                margin-left: -12px
             &:last-child
                 margin-right: -12px
             a
-                padding: 0 12px
+                padding: 0 12px 0 0
                 display: block
                 color: lighten($grey, 10%)
                 &:hover
@@ -384,8 +389,7 @@ html
     .archive
         .date
             display: none
-        li a
-            white-space: nowrap
+
 
 // smartphone view
 
@@ -401,3 +405,14 @@ html
     .browse
         p
             padding-left: 0
+
+    .menu ul li a
+        padding: 5px 20px 5px 0    
+        text-decoration: underline    
+
+    h1.title
+        font-size: 36px
+        line-height: 36px
+
+    .main h2
+        font-size: 24px        
