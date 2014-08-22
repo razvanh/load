@@ -316,6 +316,35 @@ a.typo
         &:hover
             color: $teal
 
+
+.hero
+    width: 100%
+    background-size: 60% auto
+    background-repeat: no-repeat
+    padding-top: 55%
+    position: relative
+    margin-bottom: 30px
+
+.project-info
+    position: absolute
+    top: 10%
+    left: 60%
+
+    h1
+        font-size: 5em
+        font-size: 5vw
+        line-height: 1
+        font-weight: 300
+        margin-bottom: 50px
+
+    p
+        padding: .8em 0 1.2em
+        width: 60%   
+        min-width: 10em
+    a
+        color: orangered
+        text-decoration: underline    
+
 // mobile landscape zoom hack
 
 html
@@ -324,9 +353,30 @@ html
 
 // tablet view
 
+
 @media (max-width: 700px)
     .content
         width: 80%
+
+    .hero
+        background-size: 100% auto    
+
+    .project-info
+        position: relative
+        width: 86%
+        padding: 20px 7% 0
+        top: 0
+        left: 0%
+        right: 0%
+        padding-top: 10%
+        background-color: #ccc
+        color: #000 
+        border-bottom: 1px #ccc dashed
+        h1.title
+            font-size: 2em
+            font-weight: 700
+            margin-bottom: 10px
+
     .post p img
         width: 100%
         height: auto
@@ -341,7 +391,7 @@ html
 
 @media (max-width: 375px)
     .content
-        width: 87.5%
+        width: 86%
     .meta
         span
             display: none
