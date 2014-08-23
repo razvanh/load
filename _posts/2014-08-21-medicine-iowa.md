@@ -11,6 +11,7 @@ type: Custom wordpress theme
 description: Custom wordpress theme for a publication that is mainly distributed in a print format.
 url: http://medcom.uiowa.edu/medicine
 url_anchor: Medicine Iowa
+section: portfolio
 categories:
   - portfolio
 tags:

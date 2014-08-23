@@ -6,11 +6,12 @@ permalink: portfolio/custom-zencart-online-store/
 portfolio: true
 cover: /images/portfolio/portfolio-cover-adn.png
 bg: F5CF6B
-txt: 000
+txt: 101010
 type: Ecommerce store built with ZenCart
 description: Custom e-commerce theme and functionality built using ZenCart.
 url: https://accesoriidenunta.ro
 url_anchor: Accesorii de Nunta
+section: portfolio
 categories:
   - portfolio
 tags:
