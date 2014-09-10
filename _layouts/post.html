@@ -17,7 +17,10 @@ layout: default
     </div>
     <div class="browse">
         {% if page.previous.url %}
-            <p>&larr; &nbsp; <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+            {% if page.previous.categories contains "portfolio" %}
+            {% else %}
+                <p>&larr; &nbsp; <a href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+            {% endif %}
         {% endif %}
         {% if page.next.url %}
             <p>&rarr; &nbsp; <a href="{{ page.next.url }}">{{ page.next.title }}</a></p>

@@ -5,11 +5,12 @@ layout: portfolio_item
 permalink: portfolio/transplant-clinic-website/
 portfolio: true
 cover: /images/portfolio/portfolio-cover-tr.png
+thumb: /images/portfolio/thumbs/portfolio-transplant-thumb.jpg
 bg: ffce4c
 txt: 101010
 type: Website for the Transplant Clinic
 description: Microsite that showcases the work and expertise of the transplant clinic.
-url: https://uihealthcare.org/transplant
+url_target: https://uihealthcare.org/transplant
 url_anchor: Transplant Clinic
 section: portfolio
 categories:

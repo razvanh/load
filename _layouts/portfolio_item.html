@@ -7,12 +7,12 @@ layout: default
     <div class="post full">
         {{ content }}
     </div>
-    <div class="browse">
+    <div class="browse portfolio">
         {% if page.previous_in_category != nil %}
-            <p>&larr; &nbsp; <a href="{{ page.previous_in_category.url }}">Previous Project</a></p>
+            <p>&larr; &nbsp;<a href="{{ page.previous_in_category.url }}">Previous Project</a></p>
         {% endif %}
         {% if page.next_in_category != nil %}
-            <p>&rarr; &nbsp; <a href="{{ page.next_in_category.url }}">Next Project</a></p>
+            <p><a href="{{ page.next_in_category.url }}">Next Project</a> &rarr; &nbsp;</p>
         {% endif %}
     </div>
 </div>

@@ -5,11 +5,12 @@ layout: portfolio_item
 permalink: portfolio/online-wordpress-magazine/
 portfolio: true
 cover: /images/portfolio/portfolio-cover-mi.png
+thumb: /images/portfolio/thumbs/portfolio-medicine-thumb.jpg
 bg: 28488A
 txt: fff
 type: Custom wordpress theme
 description: Custom wordpress theme for a publication that is mainly distributed in a print format.
-url: http://medcom.uiowa.edu/medicine
+url_target: http://medcom.uiowa.edu/medicine
 url_anchor: Medicine Iowa
 section: portfolio
 categories:
