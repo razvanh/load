@@ -9,7 +9,11 @@ github: razvanh
 instagram: razvanh
 twitter: razvanh
 
-highlighter: pygments
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 permalink: /:title.html
 
 exclude: [readme.md]
