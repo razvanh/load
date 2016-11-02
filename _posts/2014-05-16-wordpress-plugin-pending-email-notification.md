@@ -1,14 +1,16 @@
 ---
 title: Simple wordpress plugin for email notifications of pending submissions
+date: 2014-05-16 00:00:00 Z
+permalink: "/wordpress/email-notification-pending-submission-plugin/"
+categories:
+- wordpress
+tags:
+- wordpress email notification pending submission
+- wordpress plugin
 author: admin
 layout: post
-permalink: /wordpress/email-notification-pending-submission-plugin/
-categories:
-  - wordpress
-tags:
-  - wordpress email notification pending submission
-  - wordpress plugin
 ---
+
 ![email notification for pending wordpress submissions](/images/psm.jpg)
 
 I am working on implementing of Wordpress for an online publication that has a large editorial staff. There are a few admins and a lot of contributors that can submit articles. 

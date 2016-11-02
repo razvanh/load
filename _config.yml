@@ -1,20 +1,26 @@
-# site details
+---
+title: Load
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Life of a designer
 description: 
 url: http://llifeofadesigner.com
-
-# social profiles. just remove unneeded profiles.
 dribbble: razvanh
 github: razvanh
 instagram: razvanh
 twitter: razvanh
-
 markdown: kramdown
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-permalink: /:title.html
-
-exclude: [readme.md]
-include: [.htaccess]
+permalink: "/:title.html"
+exclude:
+- readme.md
+include:
+- ".htaccess"

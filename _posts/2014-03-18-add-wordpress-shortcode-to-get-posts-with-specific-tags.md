@@ -1,13 +1,15 @@
 ---
 title: Add wordpress shortcode to get posts with specific tags
+date: 2014-03-18 00:00:00 Z
+permalink: "/wordpress/add-wordpress-shortcode-to-get-posts-with-specific-tags/"
+categories:
+- wordpress
+tags:
+- wordpress tags shortcode
 author: admin
 layout: post
-permalink: /wordpress/add-wordpress-shortcode-to-get-posts-with-specific-tags/
-categories:
-  - wordpress
-tags:
-  - wordpress tags shortcode
 ---
+
 I am spending a lot of time lately working on wordpress projects so I will try to share bits and pieces of code that I write. 
 
 One of the features of wordpress is the short code API. You can use it to create macro codes that you can use in your post content to pull in data. There are a few default shortcodes, built into core, or you can create your own.

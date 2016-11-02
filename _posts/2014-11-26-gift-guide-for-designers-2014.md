@@ -1,15 +1,15 @@
 ---
 title: Designer gift guide 2014
+date: 2014-11-26 00:00:00 Z
+permalink: "/personal/designer-gift-ideas-2014/"
+categories:
+- personal
+tags:
+- design
+- gift ideas
 author: admin
 layout: post
-permalink: /personal/designer-gift-ideas-2014/
-categories:
-  - personal
-tags:
-  - design
-  - gift ideas
 ---
-
 
 Since I always have a hard time coming up with ideas for gifts I thought it would be fun to create a list of cool gifts for a designer. These are probably great gifts for anyone with good taste, not just designers :)
 

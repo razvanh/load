@@ -1,15 +1,15 @@
 ---
 title: Usability testing tools
+date: 2014-12-22 00:00:00 Z
+permalink: "/usability/usability-testing-tools/"
+categories:
+- usability
+tags:
+- design
+- usability testing
 author: admin
 layout: post
-permalink: /usability/usability-testing-tools/
-categories:
-  - usability
-tags:
-  - design
-  - usability testing
 ---
-
 
 Usability testing is one of those things that should be part of the design/development process but it seldom is. 
 

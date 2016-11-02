@@ -1,15 +1,17 @@
 ---
-title: Installing Let's Encrypt certificates on a Linode running Ubuntu 14.04 LTS and Apache
+title: Installing Let's Encrypt certificates on a Linode running Ubuntu 14.04 LTS
+  and Apache
+date: 2016-03-23 00:00:00 Z
+permalink: "/linux/letsencrypt-linode-ubuntu/"
+categories:
+- linux
+tags:
+- ubuntu
+- ssl certificates
+- letsencrypt
+- linode
 author: admin
 layout: post
-permalink: /linux/letsencrypt-linode-ubuntu/
-categories:
-  - linux
-tags:
-  - ubuntu
-  - ssl certificates
-  - letsencrypt
-  - linode
 ---
 
 I have a few domains hosted on my linode VM and I've been meaning to install ssl certificates for them. I had two options:

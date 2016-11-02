@@ -1,13 +1,14 @@
 ---
 title: My experience transitioning from MediaTemple to Linode
+date: 2014-06-16 00:00:00 Z
+permalink: "/personal/mediatemple-to-linode-transition/"
+categories:
+- personal
+tags:
+- linode
+- hosting
 author: admin
 layout: post
-permalink: /personal/mediatemple-to-linode-transition/
-categories:
-  - personal
-tags:
-  - linode
-  - hosting
 ---
 
 tldr; [Linode][1] offers great value and I highly reccomend them ! 

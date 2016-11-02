@@ -1,23 +1,25 @@
 ---
 title: Medicine Iowa - online magazine
+date: 2010-08-21 00:00:00 Z
+permalink: portfolio/online-wordpress-magazine/
+categories:
+- portfolio
+tags:
+- wordpress
+- online magazine
 author: admin
 layout: portfolio_item
-permalink: portfolio/online-wordpress-magazine/
 portfolio: true
-cover: /images/portfolio/portfolio-cover-mi.png
-thumb: /images/portfolio/thumbs/portfolio-medicine-thumb.jpg
+cover: "/images/portfolio/portfolio-cover-mi.png"
+thumb: "/images/portfolio/thumbs/portfolio-medicine-thumb.jpg"
 bg: 28488A
 txt: fff
 type: Custom wordpress theme
-description: Custom wordpress theme for a publication that is mainly distributed in a print format.
+description: Custom wordpress theme for a publication that is mainly distributed in
+  a print format.
 url_target: http://medcom.uiowa.edu/medicine
 url_anchor: Medicine Iowa
 section: portfolio
-categories:
-  - portfolio
-tags:
-  - wordpress
-  - online magazine
 ---
 
 Medicine Iowa is a quarterly magazine published by UI Health Care that needed an online presence. We decided that the best approach would be to 

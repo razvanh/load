@@ -1,14 +1,16 @@
 ---
 title: Hide dismissed notifications with jQuery and cookies
+date: 2013-11-05 00:00:00 Z
+permalink: "/javascript/hide-dismissed-notifications-with-jquery-and-cookies/"
+categories:
+- javascript
+tags:
+- dismiss alert
+- hide dismiss alert
 author: admin
 layout: post
-permalink: /javascript/hide-dismissed-notifications-with-jquery-and-cookies/
-categories:
-  - javascript
-tags:
-  - "dismiss alert"
-  - "hide dismiss alert"
 ---
+
 It&#8217;s quite easy to write a jQuery or plain JS script that dismisses an alert message but sometimes you want a little bit more. Usually that is to keep that notification hidden when you refresh the page. that can be done using various approaches and one of them is to use cookies. It&#8217;s as simple as setting/updating a cookie that contains a string with the ids of the notification containers that were dismissed.
 
 Here&#8217;s an example of the html and JS.

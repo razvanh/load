@@ -1,11 +1,17 @@
 ---
 title: Accesorii de Nunta - web store
+date: 2010-08-22 00:00:00 Z
+permalink: portfolio/custom-zencart-online-store/
+categories:
+- portfolio
+tags:
+- zencart
+- ecommerce
 author: admin
 layout: portfolio_item
-permalink: portfolio/custom-zencart-online-store/
 portfolio: true
-cover: /images/portfolio/portfolio-cover-adn.png
-thumb: /images/portfolio/thumbs/portfolio-accesorii-thumb.jpg
+cover: "/images/portfolio/portfolio-cover-adn.png"
+thumb: "/images/portfolio/thumbs/portfolio-accesorii-thumb.jpg"
 bg: F5CF6B
 txt: 101010
 type: Ecommerce store built with ZenCart
@@ -13,11 +19,6 @@ description: Custom e-commerce theme and functionality built using ZenCart.
 url_target: https://accesoriidenunta.ro
 url_anchor: Accesorii de Nunta
 section: portfolio
-categories:
-  - portfolio
-tags:
-  - zencart
-  - ecommerce
 ---
 
 This is an online web store selling wedding accessories and catering to the romanian community.

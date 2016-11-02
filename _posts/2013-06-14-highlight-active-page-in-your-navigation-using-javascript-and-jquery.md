@@ -1,11 +1,13 @@
 ---
 title: Highlight active page in your navigation using javascript and jQuery
+date: 2013-06-14 00:00:00 Z
+permalink: "/javascript/highlight-active-page-in-your-navigation-using-javascript-and-jquery/"
+categories:
+- javascript
 author: admin
 layout: post
-permalink: /javascript/highlight-active-page-in-your-navigation-using-javascript-and-jquery/
-categories:
-  - javascript
 ---
+
 For one of the projects I am currently working we are using a regular content item that contains an unordered list for the inside page navigation. The problem is that there is no way to programmatically highlight the active page in that menu.
 
 The solution is to use javascript/jQuery to add a class to the item that needs to be highlighted. 

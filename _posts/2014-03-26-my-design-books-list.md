@@ -1,14 +1,16 @@
 ---
 title: My design books list
+date: 2014-03-26 00:00:00 Z
+permalink: "/books/my-design-books-list/"
+categories:
+- books
+tags:
+- books for designers
+- design books
 author: admin
 layout: post
-permalink: /books/my-design-books-list/
-categories:
-  - books
-tags:
-  - books for designers
-  - design books
 ---
+
 I started a new personal project that hopefully will help other designers that are looking for [design books][1] recommendations.
 
 Reading these will make you a better designer and will help you get better with your writing too, I know it helps me a lot.

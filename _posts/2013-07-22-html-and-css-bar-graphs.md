@@ -1,13 +1,15 @@
 ---
 title: Html and CSS bar graphs
+date: 2013-07-22 00:00:00 Z
+permalink: "/css/html-and-css-bar-graphs/"
+categories:
+- CSS
+tags:
+- css graph
 author: admin
 layout: post
-permalink: /css/html-and-css-bar-graphs/
-categories:
-  - CSS
-tags:
-  - css graph
 ---
+
 Just a little bar graphs that I worked on today for a website. Complete with some css animation.
 
 <pre class="codepen" data-height="300" data-type="result" data-href="IEfxv" data-user="razvan" data-safe="true"><code></code><a href="http://codepen.io/razvan/pen/IEfxv">Check out this Pen!</a></pre>

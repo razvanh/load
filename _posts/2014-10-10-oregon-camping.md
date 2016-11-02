@@ -1,13 +1,14 @@
 ---
 title: Oregon camping trip
+date: 2014-10-10 00:00:00 Z
+permalink: "/personal/cloud-cap-oregon-camping/"
+categories:
+- personal
+tags:
+- camping
+- oregon
 author: admin
 layout: post
-permalink: /personal/cloud-cap-oregon-camping/
-categories:
-  - personal
-tags:
-  - camping
-  - oregon
 ---
 
 ![mt hood](/images/oregon2014/mthood.jpg)
